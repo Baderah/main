@@ -2613,6 +2613,15 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.image1{
+				width: 100%;
+			}
+
+		.image1{  
+			border: 10px solid ;
+  			padding: 15px;
+  			border-image: 50 round;
+		}		
 /* List */
 
 	ol {
