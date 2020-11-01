@@ -2617,6 +2617,7 @@ input, select, textarea {
 			border: 10px solid ;
   			padding: 15px;
   			border-image: 50 round;
+			height:75px;
 		}		
 /* List */
 
