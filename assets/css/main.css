@@ -2614,7 +2614,8 @@ input, select, textarea {
 			}
 
 		.image1{  
-			border: 5px solid #663399;
+			width: 50%;
+			height:auto;
 		}		
 /* List */
 
